@@ -1,2 +1,1 @@
 # mygit
-ismygit
